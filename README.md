@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Caprio Mattia, aka @Caprio00, a 21 computer science student of Salerno's University.
+- 👋 Hi, I’m Caprio Mattia, aka CDoctor, a 21 computer science student of Salerno's University.
 - 🖤 I’m interested in programming, computer, videogames and anime (just an otaku🎮💻). 
 - 👀 I’m currently learning Javascript, and I intend to learn React as soon as possible.
 - 🙏🏻 For now I prefer to improve myself as much as possible, so that I can collaborate better in the future.
